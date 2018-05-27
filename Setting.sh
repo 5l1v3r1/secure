@@ -56,7 +56,7 @@ function about(){
 	echo "    YouTube Channel :  Harsh ki vani"
 	echo " "
 	sleep 1
-	echo "  Guys just be supporting me and mortivating " | lolcat
+	echo "  Guys just be supporting me and motivating " | lolcat
  	echo "  me for more new tools and much more things " | lolcat
 	echo " "
 	echo " "
